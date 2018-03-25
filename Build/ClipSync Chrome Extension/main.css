@@ -1,0 +1,30 @@
+body {
+  font-family: Arial;
+  font-size: 1em;
+  margin: 2em;
+}
+
+label {
+  display: inline-block;
+  transition: .4s;
+}
+label > input {
+  display: none;
+}
+label i {
+  display: inline-block;
+  width: 0.8em;
+  height: 0.8em;
+  border-radius: 50%;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  margin-right: 0.5em;
+  vertical-align: middle;
+  transition: .4s;
+}
+label > input:checked + i {
+  box-shadow: inset 0 0 0 0.2em #ffffff;
+  background: green;
+}
+label:hover {
+  cursor: pointer;
+}

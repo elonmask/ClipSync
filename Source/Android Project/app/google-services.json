@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1066138988510",
+    "firebase_url": "https://clipsync-b6c15.firebaseio.com",
+    "project_id": "clipsync-b6c15",
+    "storage_bucket": "clipsync-b6c15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066138988510:android:e9114e9b5a3f66e5",
+        "android_client_info": {
+          "package_name": "com.example.sergeivoron.clipsync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066138988510-39jpvp8ro6ik69d35rtkkrl6dpegfd9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sergeivoron.clipsync",
+            "certificate_hash": "3240c162ffd1afbc26407ed8a9e4d92c1a6dff1d"
+          }
+        },
+        {
+          "client_id": "1066138988510-al4542m08onv3c6b9q9f1c7gna338g6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9RXh2xJo04yQ6IAXxThmgpM4pHeFTeJk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066138988510-al4542m08onv3c6b9q9f1c7gna338g6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
